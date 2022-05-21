@@ -7,7 +7,7 @@
     - Sentiment analysis on user reviews
     - Relationship between app categories and pricing
 
-## Invesitaging Netflix Movies and Guest Stars in The Office
+## Investigating  Netflix Movies and Guest Stars in The Office
 ### DataCamp Porject
 
 - This was a guided project within DataCamp's "Data Scientist with Python" track
