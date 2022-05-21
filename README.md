@@ -1,4 +1,4 @@
-## Google Play Stor apps and Reviews
+## Google Play Store apps and Reviews
 ### DataCamp Project
 
 - This was a guided project within DataCamp's "Data Scientist with Python" track
