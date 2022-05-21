@@ -6,4 +6,3 @@
     - Popularity of paid apps vs free apps
     - Sentiment analysis on user reviews
     - Relationship between app categories and pricing
-    -
